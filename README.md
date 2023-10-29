@@ -1,5 +1,5 @@
 # VirtualAdvisor
-Created for Hack NC 2023
+# # Created for Hack NC 2023
 
 - All college students must register for classes, but advisors are not always around or available
 - Virtual Advisor is your go-to preliminary advisor, providing a list of core and Gen Ed classes and suggesting classes that you need to take
