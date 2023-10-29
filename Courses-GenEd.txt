@@ -1,0 +1,89 @@
+Course                    Credit
+NumberCourse Name         HoursDifficultyPreReq    CoReqSemesterAttribute                            Required
+BIOL Principles of                                 BIOL
+1100 Biology I                3     4.6N/A         1101 Both    NaturalScience                       false
+       Principles of
+BIOL Biology                                       BIOL
+1101 Laboratory I             1     4.6N/A         1100 Both     NaturalScience;Lab                  false
+                                       BIOL
+BIOL Principles of                     1100;BIOL   BIOL
+1200 Biology II               3     3.61101        1201 Both     NaturalScience                      false
+     Principles of                     BIOL
+BIOL Biology                           1100;BIOL   BIOL
+1201 Laboratory II            1     3.61101        1200 Both     NaturalScience;Lab                  false
+CHEM General                                       CHEM
+1150 Chemistry I              3    3.89N/A         1151 Both     NaturalScience                      false
+     General
+CHEM Chemistry                                   CHEM
+1151 Laboratory I             1    3.89N/A       1160 Both       NaturalScience;Lab                  false
+                                       CHEM
+CHEM General                           1150;CHEM CHEM
+1160 Chemistry II             3     3.21151      1161 Both       NaturalScience                      false
+     General                           CHEM
+CHEM Chemistry                         1150;CHEM CHEM
+1161 Laboratory II            1     3.21151      1160 Both       NaturalScience;Lab                  false
+     General                           PHYS
+PHYS Physics                           1250; PHYS
+1251 Laboratory I             1    3.932350      N/A Both        NaturalScience;Lab                  false
+                                       PHYS
+       General                         1251; PHYS
+PHYS   Physics                         1260 or
+1261   Laboratory II          1    4.671260      N/A Both        NaturalScience;Lab                  false
+PHYS   University
+2350   Physics I              3     3.8MATH 2121 N/A     Both    NaturalScience                      false
+PHYS   University
+2360   Physics II             3    4.33N/A         N/A   Both    NaturalScience                      false
+ENGL   Foundations of
+1100   College Writing        3    2.61N/A       N/A     Both    English                             true
+                                       ENGL
+ENGL   Writing About                   1100;ENGL
+2201   the Disciplines        3    3.021100      N/A     Both    English                             true
+ENGL   Introduction to
+2815   Creative Writing       3     3.5N/A         N/A   Both    HumanitiesFineArts;Fine arts        false
+HLTH
+1000 Health                   1    1.38N/A         N/A   Both    HealthPE                            true
+KINE Exercise and
+1000 Sport Science            1       0N/A         N/A   Both    HealthPE                            true
+     Fundamentals
+COMM of Speech
+2020 Communication            3    1.76N/A         N/A   Both    Communications                      false
+COMM
+2410 Public Speaking          3     3.6N/A         N/A   Both    Communications                      false
+PHIL Professional
+2275 Ethics                   3    2.98N/A         N/A   Both    Philosophy                          true
+MATH
+1065 College Algebra          3    3.85N/A         N/A   Both    Math                                true
+MATH Calculus for the
+2121 Life Sciences            3    3.67MATH 1065 N/A     Both    Math                                true
+MATH
+2171 Calculus I               3    4.33MATH 2122 N/A     Both    Math                                true
+     Elementary
+MATH Statistical
+2228 Methods                  3    2.44            N/A   Both    Math                                false
+MATH Statistics for
+2283 Business                 3     4.2            N/A   Both    Math                                false
+CLAS Classical
+1500 Mythology                3     2.8N/A         N/A   Both    HumanitiesFineArts;Humanities;Globalfalse
+CLAS Introduction to
+2000 Classics                 3       0N/A         N/A   Fall    HumanitesFineArts;Humanities;Global false
+ART
+1020 Drawing                  3    4.33N/A         N/A   Both    HumanitiesFineArts;FineArts         false
+DNCE Introduction to
+1000 Dance                    3    1.36N/A         N/A   Both    HumanitiesFineArts;FineArts;Domesticfalse
+MUSC Fundamentals
+1018 of Music I               2       0N/A         N/A   Both    HumanitiesFineArts;FineArts         false
+       Aliens, Atlantis,
+       and Archeology:
+       Pseudoscience
+       and
+ANTH   Interpretations
+1001   of the Past         3   1.42N/A   N/A   Both   SocialSciences;Global   false
+       Anthropology of
+       Monsters,
+ANTH   Vampires and                                                                   Social
+1088   Zombies             3   3.25N/A   N/A   Both   Social Sciences         false   Sciencesfalse
+ECON   Principles of
+2113   Microeconomics      3   2.82N/A   N/A   Both   SocialSciences          false
+PSYC   Introductory
+1000   Psychology          3   1.67N/A   N/A   Both   SocialSciences          false
+
