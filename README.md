@@ -1,7 +1,12 @@
 # VirtualAdvisor
 Created for Hack NC 2023
 
-- A virtual advisor where based off the student's past/current courses, interest, how many credit hours they want to take next semester, and the semester they are planning for, the virtual adisor w provide a list of all classes that the student still needs to take as well as suggestions for specifically what classes they should take during the next semester
-- Instead of just displaying which classes you have left to take for your major, this program suggests classes for a desired semester based on what you have already taken
-- The program also takes into account desired semester hours and also will keep track of when exactly you can take courses depending on the semester
-- It calculates and outputs the estimated difficulty level of the suggested semester by averaging scores pulled from Rate My Professor
+- All college students must register for classes, but advisors are not always around or available
+- Virtual Advisor is your go-to preliminary advisor, providing a list of core and Gen Ed classes and suggesting classes that you need to take
+- Virtual Advisor goes beyond typical registration software; instead of just displaying which classes you have left for your major, Virtual Advisor suggests courses for the upcoming semester, taking into account classes taken, desired number of credit hours, semesters the courses are offered, and pre-requisites and co-requisites
+- After entering your interests, Virtual Advisor will even suggest Gen Ed courses that you may enjoy``
+- As a bonus capability, Virtual Advisor calculates and outputs the estimated difficulty level of the suggested semester by averaging scores pulled from Rate My Professors
+
+- This Virtual Advisor prototype utilizes the Computer Science major at East Carolina University and a sample of various Gen Eds from across campus
+- Ideally, a finalized version would be integrated into a university's student data course database, however, we have hardcoded an example based on our current classes
+- A mock-up of the user interface is provided to give viewers a sense of how future users may interact with the software
