@@ -1,0 +1,224 @@
+CSCI1000
+Explorations in Computing
+3
+0
+n/a
+N/A
+Fall
+true
+CSCI1010
+Algorithmic Problem Solving 
+4
+3
+n/a
+CSCI1011
+Both
+true
+CSCI1011
+Algorithmic Problem Solving Lab
+0
+3
+n/a
+CSCI1010
+Both
+true
+CSCI2400
+Discrete Structures I
+3
+3.5
+MATH1065
+N/A
+Both
+true
+CSCI2405
+Discrete Structures II
+3
+5
+CSCI2400
+N/A
+Both
+true
+CSCI2410
+Digital Logic Design 
+3
+2
+n/a
+N/A
+Fall
+true
+CSCI2530
+Algorithms and Data Structures 
+3
+4
+CSCI1010;CSCI2400
+N/A
+Both
+true
+CSCI2540
+Data Abstraction and Object Oriented Data Structures 
+3
+4.13
+CSCI2530 or CSCI3300;CSCI2405
+N/A
+Both
+true
+CSCI3000
+Operating Systems
+3
+4.33
+CSCI2405;CSCI2530
+N/A
+Spring
+true
+CSCI3010
+Computer Networks
+3
+0
+CSCI2410;CSCI2530
+N/A
+Spring
+true
+CSCI3030
+Software Engineering I
+3
+4.33
+CSCI2540
+N/A
+Fall
+true
+CSCI3584
+Computational Linear Algebra
+3
+0
+N/A
+N/A
+Fall
+true
+CSCI3650
+Design and Analysis of Algorithms 
+3
+4.5
+CSCI2405;CSCI2530
+N/A
+Spring
+true
+CSCI3675
+Principles of programming langauages
+3
+3.83
+CSCI2540
+N/A
+Fall
+true
+CSCI3700
+Database Management Systems 
+3
+0
+CSCI2540
+N/A
+Fall
+treu
+CSCI4230
+Software Engineering II
+3
+3
+CSCI3030;CSCI3700
+CSCI4231
+Both
+true
+CSCI4231
+Software Engineering II Lab
+3
+3
+N/A
+CSCI4230
+Both
+true
+CSCI4520
+Computer Architecture 
+3
+0
+CSCI2410;CSCI3526
+N/A
+Both
+true
+CSCI4602
+Automata, Computability and Complexity 
+3
+4.67
+CSCI2405;CSCI2530 or CSCI3300
+N/A
+Fall
+true
+CSCI4900
+Ethical and Professional Issues in Computer Science 
+1
+0
+-
+N/A
+Both
+true
+CSCI3800
+Computer Graphics 
+3
+0
+CSCI2540;MATH3256 or MATH3584
+N/A
+Both
+false
+CSCI4110
+High Performance Computing 
+3
+0
+CSCI3000;CSCI3675
+N/A
+Fall
+false
+CSCI4130
+Information Retrieval 
+3
+0
+CSCI2530;MATH2228 or MATH2283
+N/A
+Both
+false
+CSCI4170
+Cloud Computing 
+3
+0
+CSCI3000;CSCI3010
+N/A
+Both
+false
+CSCI4180
+Big Data Analytics 
+3
+0
+CSCI3700
+N/A
+Both
+false
+CSCI4550
+Computer Game Development II
+3
+0
+CSCI3550
+N/A
+Both
+false
+CSCI4710
+Web Applications 
+3
+2.67
+CSCI3700
+N/A
+Both
+false
+CSCI4905
+Selected Topics in Computer Science 
+3
+0
+CSCI2530
+N/A
+Both
+false

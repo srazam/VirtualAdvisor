@@ -1,0 +1,307 @@
+BIOL1100
+Principles of Biology I
+3
+4.6
+N/A
+BIOL1101
+Both
+NaturalScience
+false 
+BIOL1101
+Principles of Biology Laboratory I
+1
+4.6
+N/A
+BIOL1100
+Both
+NaturalScience;Lab
+false 
+BIOL1200
+Principles of Biology II
+3
+3.6
+BIOL1100;BIOL1101
+BIOL1201
+Both
+NaturalScience
+false 
+BIOL1201
+Principles of Biology Laboratory II
+1
+3.6
+BIOL1100;BIOL1101
+BIOL1200
+Both
+NaturalScience;Lab
+false 
+CHEM1150
+General Chemistry I
+3
+3.89
+N/A
+CHEM1151
+Both
+NaturalScience 
+false 
+CHEM1151
+General Chemistry Laboratory I
+1
+3.89
+N/A
+CHEM1160
+Both
+NaturalScience;Lab
+false 
+CHEM1160
+General Chemistry II
+3
+3.2
+CHEM1150;CHEM1151
+CHEM1161
+Both
+NaturalScience 
+false 
+CHEM1161
+General Chemistry Laboratory II
+1
+3.2
+CHEM1150;CHEM1151
+CHEM1160
+Both
+NaturalScience;Lab 
+false 
+PHYS1251
+General Physics Laboratory I
+1
+3.93
+PHYS1250; PHYS2350
+N/A
+Both
+NaturalScience;Lab
+false 
+PHYS1261
+General Physics Laboratory II
+1
+4.67
+PHYS1251;PHYS1260
+N/A
+Both
+NaturalScience;Lab
+false 
+PHYS2350
+University Physics I
+3
+3.8
+MATH2121
+N/A
+Both
+NaturalScience
+false 
+PHYS2360
+University Physics II
+3
+4.33
+N/A
+N/A
+Both
+NaturalScience
+false 
+ENGL1100
+Foundations of College Writing
+3
+2.61
+N/A
+N/A
+Both
+English
+true 
+ENGL2201
+Writing About the Disciplines
+3
+3.02
+ENGL1100
+N/A
+Both
+English
+true 
+ENGL2815
+Introduction to Creative Writing
+3
+3.5
+N/A
+N/A
+Both
+HumanitiesFineArts;Fine arts
+false 
+HLTH1000
+Health
+1
+1.38
+N/A
+N/A
+Both
+HealthPE
+true 
+KINE1000
+Exercise and Sport Science
+1
+0
+N/A
+N/A
+Both
+HealthPE
+true 
+COMM2020
+Fundamentals of Speech Communication 
+3
+1.76
+N/A
+N/A
+Both
+Communications 
+false 
+COMM2410
+Public Speaking 
+3
+3.6
+N/A
+N/A
+Both
+Communications 
+false 
+PHIL2275
+Professional Ethics 
+3
+2.98
+N/A
+N/A
+Both 
+Philosophy 
+true 
+MATH1065
+College Algebra
+3
+3.85
+N/A
+N/A
+Both
+Math
+true 
+MATH2121
+Calculus for the Life Sciences 
+3
+3.67
+MATH1065
+N/A
+Both
+Math
+true 
+MATH2171
+Calculus I
+3
+4.33
+MATH2122
+N/A
+Both
+Math
+true 
+MATH2228
+Elementary Statistical Methods 
+3
+2.44
+MATH2283
+N/A
+Both
+Math
+false 
+MATH2283
+Statistics for Business 
+3
+4.2
+CLAS1500
+N/A
+Both
+Math
+false 
+CLAS1500
+Classical Mythology
+3
+2.8
+N/A
+N/A
+Both
+HumanitiesFineArts;Humanities;Global
+false 
+CLAS2000
+Introduction to Classics
+3
+0
+N/A
+N/A
+Fall
+HumanitesFineArts;Humanities;Global
+false 
+ART1020
+Drawing
+3
+4.33
+N/A
+N/A
+Both
+HumanitiesFineArts;FineArts
+false 
+DNCE1000
+Introduction to Dance
+3
+1.36
+N/A
+N/A
+Both
+HumanitiesFineArts;FineArts;Domestic
+false 
+MUSC1018
+Fundamentals of Music I
+2
+0
+N/A
+N/A
+Both
+HumanitiesFineArts;FineArts
+false 
+ANTH1001
+Aliens, Atlantis, and Archeology: Pseudoscience and Interpretations of the Past
+3
+1.42
+N/A
+N/A
+Both
+SocialSciences;Global
+false 
+ANTH1088
+Anthropology of Monsters, Vampires and Zombies 
+3
+3.25
+N/A
+N/A
+Both
+Social Sciences
+false 
+ECON2113
+Principles of Microeconomics
+3
+2.82
+N/A
+N/A
+Both
+SocialSciences
+false 
+PSYC1000
+Introductory Psychology
+3
+1.67
+N/A
+N/A
+Both
+SocialSciences
+false 
+
