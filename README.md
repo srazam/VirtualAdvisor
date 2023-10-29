@@ -9,4 +9,4 @@ Created for Hack NC 2023
 
 - This Virtual Advisor prototype utilizes the Computer Science major at East Carolina University and a sample of various Gen Eds from across campus
 - Ideally, a finalized version would be integrated into a university's student data course database, however, we have hardcoded an example based on our current classes
-- A mock-up of the user interface is provided to give viewers a sense of how future users may interact with the software
+- A mock-up of the user interface can be found [here](https://www.canva.com/design/DAFylO-LAyM/MiuBaxIas0DK82G4m40i8g/view?utm_content=DAFylO-LAyM&utm_campaign=designshare&utm_medium=link&utm_source=editor) to provide viewers an idea of how future users may interact with the software
